@@ -2,3 +2,6 @@
 
 ## Facilatator 
 Dave H. Medrano
+
+### Members
+BONIFACIO, Andres
