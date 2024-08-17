@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-Balansi, Rhys Alekcsie
+Balansi, Rhys Alecksie
