@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ## Members
-ULLANI, Ronalyn L.
+Tum-en, Jonalou D.
