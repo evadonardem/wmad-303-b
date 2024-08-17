@@ -1,1 +1,4 @@
-# wmad-303-b
+# WMAD-303 React Navite Mobile Development
+
+## Facilatator 
+Dave H. Medrano
