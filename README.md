@@ -4,4 +4,4 @@
 Dave H. Medrano
 
 ### Members
-BONIFACIO, Andres
+Dulagan, Jasmine
