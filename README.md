@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-BASQUIAL_Kenneth
+BASQUIAL_Kenneth C.
