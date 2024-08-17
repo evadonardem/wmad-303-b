@@ -4,4 +4,4 @@
 Dave H. Medrano
 
 ### Members
-Dulagan, Jasmine
+Balala, Conibeth Mae
