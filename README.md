@@ -1,4 +1,7 @@
 # WMAD-303 React Navite Mobile Development
 
 ## Facilatator 
-Dave H. Medrano
+MEDRANO, Dave H.
+
+## Members
+ULLANI, Ronalyn l.
