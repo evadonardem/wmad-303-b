@@ -4,3 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
+JOAQUIN, JADE ART
