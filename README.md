@@ -3,5 +3,5 @@
 ## Facilatator 
 MEDRANO, Dave H.
 
-### Members
+### Member
 Calias Sandra
