@@ -2,3 +2,7 @@
 
 ## Facilatator 
 Dave H. Medrano
+
+### Members
+Alvarez_Nigela
+
