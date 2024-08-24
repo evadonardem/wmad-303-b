@@ -5,9 +5,14 @@
 Dave H. Medrano
 
 ### Members
-Balala, Conibeth Mae
-MEDRANO, Dave H.
+- Balala, Conibeth Mae
+- MEDRANO, Dave H.
 
 ### Members
-BALANSI, Rhys Alecksie
-BONIFACIO, Andres
+- BALANSI, Rhys Alecksie
+- BONIFACIO, Andres
+
+- BALANSI, Rhys Alecksie
+- BONIFACIO, Andres
+- ULLANI, Ronalyn L.
+
