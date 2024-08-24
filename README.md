@@ -4,6 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-- BALANSI, Rhys Alecksie
-- BONIFACIO, Andres
-- ULLANI, Ronalyn L.
+-Depaynos, Zymir Raj Ismael
