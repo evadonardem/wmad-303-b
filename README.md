@@ -4,4 +4,7 @@
 MEDRANO, Dave H.
 
 ### Members
--JOAQUIN, Jade Art
+- ACOKING, Herbert
+- BALANSI, Rhys Alecksie
+- JOAQUIN, Jade Art
+- ULLANI, Ronalyn
