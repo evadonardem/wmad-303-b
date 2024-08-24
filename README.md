@@ -4,6 +4,7 @@
 MEDRANO, Dave H.
 
 ### Members
+- ACOKING, Herbert
 - BALANSI, Rhys Alecksie
 - BONIFACIO, Andres
 - ULLANI, Ronalyn L.
