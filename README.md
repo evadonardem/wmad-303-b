@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-Camacho, Mecie Faith
+- PASCUAL, Chysis O.
