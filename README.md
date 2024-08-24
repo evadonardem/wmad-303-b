@@ -6,5 +6,6 @@ MEDRANO, Dave H.
 ### Members
 - ACOKING, Herbert
 - BALANSI, Rhys Alecksie
+- ITSO, Lyn
 - JOAQUIN, Jade Art
 - ULLANI, Ronalyn
