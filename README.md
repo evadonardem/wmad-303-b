@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-GAIWEN, FRED
+GAIWEN, Fred
