@@ -4,4 +4,11 @@
 MEDRANO, Dave H.
 
 ### Members
+- ACOKING, Herbert
+- AGLUYA, Rey
+- BALANSI, Rhys Alecksie
 - DEPAYNOS, Nathalie
+- GAIWEN, Fred
+- ITSO, Lyn
+- JOAQUIN, Jade Art
+- ULLANI, Ronalyn
