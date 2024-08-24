@@ -9,3 +9,4 @@ MEDRANO, Dave H.
 - ITSO, Lyn
 - JOAQUIN, Jade Art
 - ULLANI, Ronalyn
+- PASCUAL, Chysis O.
