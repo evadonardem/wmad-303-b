@@ -1,7 +1,17 @@
 # WMAD-303 React Navite Mobile Development
 
-## Facilatator 
-MEDRANO, Dave H.
+## Facilitator 
+MEDRANO, Dave
 
 ### Members
--Esguerra, Aeron Raye B.
+- ACOKING, Herbert
+- AGLUYA, Rey
+- BALANSI, Rhys Alecksie
+- DEPAYNOS, Nathalie
+- DOUGLAS, Jezreel
+- ESGUERRA, Aeron Raye
+- GAIWEN, Fred
+- ITSO, Lyn
+- JOAQUIN, Jade Art
+- MARCOS, Brenelyn
+- ULLANI, Ronalyn
