@@ -10,6 +10,7 @@ MEDRANO, Dave
 - BALANSI, Rhys Alecksie
 - DEPAYNOS, Nathalie
 - DOUGLAS, Jezreel
+- DULAGAN, Jasmine
 - ESGUERRA, Aeron Raye
 - GAIWEN, Fred
 - HOMBREBUENO, Leandro
