@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-DEPAYNOS, Nathalie
+- DEPAYNOS, Nathalie
