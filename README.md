@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-PADILLA, Renz
+- PADILLA, Renz
