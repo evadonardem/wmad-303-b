@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-MARCOS, Brenelyn D.
+- MARCOS, Brenelyn
