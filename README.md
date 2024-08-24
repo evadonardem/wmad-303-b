@@ -1,7 +1,28 @@
 # WMAD-303 React Navite Mobile Development
 
-## Facilatator 
-MEDRANO, Dave H.
+## Facilitator 
+MEDRANO, Dave
 
-### Members
-CORPUZ, MARK JANLEE
+### Members 
+- ACOKING, Herbert
+- AGLUYA, Rey
+- ALVAREZ, Nigela
+- BALALA, Conibeth Mae
+- BALANSI, Rhys Alecksie
+- CORPUZ, Mark Janlee
+- DEPAYNOS, Nathalie
+- DEPAYNOS, Zymir Raj Ismael
+- DOUGLAS, Jezreel
+- DULAGAN, Jasmine
+- ESGUERRA, Aeron Raye
+- GAIWEN, Fred
+- HOMBREBUENO, Leandro
+- ITSO, Lyn
+- JOAQUIN, Jade Art
+- MARCOS, Brenelyn
+- MOCAY, Homer
+- PADILLA, Renz
+- PASCUAL, Chysis
+- POLLED, Kenneth
+- VENTURINA, Joshua
+- ULLANI, Ronalyn
