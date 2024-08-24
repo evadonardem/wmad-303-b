@@ -19,6 +19,7 @@ MEDRANO, Dave
 - JOAQUIN, Jade Art
 - MARCOS, Brenelyn
 - MOCAY, Homer
+- PADILLA, Renz
 - PASCUAL, Chysis
 - VENTURINA, Joshua
 - ULLANI, Ronalyn
