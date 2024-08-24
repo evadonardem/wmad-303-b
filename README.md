@@ -3,5 +3,5 @@
 ## Facilatator 
 MEDRANO, Dave H.
 
-### Members
-- Polled, Kenneth
+### Members 
+-Polled, Kenneth
