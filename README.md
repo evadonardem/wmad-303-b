@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-ITSO, Lyn
+- ITSO, Lyn
