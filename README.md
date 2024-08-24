@@ -1,15 +1,23 @@
 # WMAD-303 React Navite Mobile Development
 
-## Facilatator 
-
-Dave H. Medrano
+## Facilitator 
+MEDRANO, Dave
 
 ### Members
+- ACOKING, Herbert
+- AGLUYA, Rey
+- ALVAREZ, Nigela
 - BALALA, Conibeth Mae
-MEDRANO, Dave H.
-
-### Members
 - BALANSI, Rhys Alecksie
-- BONIFACIO, Andres
-- ULLANI, Ronalyn L.
-
+- DEPAYNOS, Nathalie
+- DOUGLAS, Jezreel
+- DULAGAN, Jasmine
+- ESGUERRA, Aeron Raye
+- GAIWEN, Fred
+- HOMBREBUENO, Leandro
+- ITSO, Lyn
+- JOAQUIN, Jade Art
+- MARCOS, Brenelyn
+- MOCAY, Homer
+- PASCUAL, Chysis
+- ULLANI, Ronalyn
