@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-Esguerra, Aeron Raye B.
+-Esguerra, Aeron Raye B.
