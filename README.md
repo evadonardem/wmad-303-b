@@ -3,7 +3,7 @@
 ## Facilitator 
 MEDRANO, Dave
 
-### Members
+### Members 
 - ACOKING, Herbert
 - AGLUYA, Rey
 - ALVAREZ, Nigela
@@ -22,5 +22,6 @@ MEDRANO, Dave
 - MOCAY, Homer
 - PADILLA, Renz
 - PASCUAL, Chysis
+- POLLED, Kenneth
 - VENTURINA, Joshua
 - ULLANI, Ronalyn
