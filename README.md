@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-DOUGLAS, Jezreel
+- DOUGLAS, Jezreel
