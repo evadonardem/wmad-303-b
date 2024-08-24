@@ -8,6 +8,7 @@ MEDRANO, Dave H.
 - AGLUYA, Rey
 - BALANSI, Rhys Alecksie
 - DEPAYNOS, Nathalie
+- DOUGLAS, Jezreel
 - GAIWEN, Fred
 - ITSO, Lyn
 - JOAQUIN, Jade Art
