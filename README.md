@@ -4,5 +4,5 @@
 MEDRANO, Dave H.
 
 ### Members
-- Alvarez_Nigela
+- ALVAREZ,Nigela
 
