@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-AGLUYA, Rey
+- AGLUYA, Rey
