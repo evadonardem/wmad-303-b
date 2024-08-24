@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-- PASCUAL, Chysis
+- PASCUAL, Chysis O.
