@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-Polled, Kenneth
+- Polled, Kenneth
