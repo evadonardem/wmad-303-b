@@ -6,6 +6,7 @@ MEDRANO, Dave
 ### Members
 - ACOKING, Herbert
 - AGLUYA, Rey
+- ALVAREZ, Nigela
 - BALANSI, Rhys Alecksie
 - DEPAYNOS, Nathalie
 - DOUGLAS, Jezreel
