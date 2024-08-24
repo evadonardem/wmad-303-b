@@ -4,7 +4,15 @@
 MEDRANO, Dave H.
 
 ### Members
-Dulagan, Jasmine
+
+- DULAGAN, Jasmine
 =======
-### Members
-BONIFACIO, Andres
+- ACOKING, Herbert
+- AGLUYA, Rey
+- BALANSI, Rhys Alecksie
+- DEPAYNOS, Nathalie
+- GAIWEN, Fred
+- ITSO, Lyn
+- JOAQUIN, Jade Art
+- ULLANI, Ronalyn
+
