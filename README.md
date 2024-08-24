@@ -4,6 +4,5 @@
 MEDRANO, Dave H.
 
 ### Members
-Alvarez_Nigela
-BONIFACIO, Andres
+- Alvarez_Nigela
 
