@@ -5,3 +5,4 @@ MEDRANO, Dave H.
 
 ### Members
 BALANSI, Rhys Alecksie
+BONIFACIO, Andres
