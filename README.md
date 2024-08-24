@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-ACOKING, Herbert
+-ACOKING, Herbert
