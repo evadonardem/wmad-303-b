@@ -14,4 +14,5 @@ MEDRANO, Dave
 - ITSO, Lyn
 - JOAQUIN, Jade Art
 - MARCOS, Brenelyn
+- PASCUAL, Chysis
 - ULLANI, Ronalyn
