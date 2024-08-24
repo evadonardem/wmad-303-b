@@ -9,6 +9,7 @@ MEDRANO, Dave
 - ALVAREZ, Nigela
 - BALALA, Conibeth Mae
 - BALANSI, Rhys Alecksie
+- CALADO, Joward
 - CORPUZ, Mark Janlee
 - DEPAYNOS, Nathalie
 - DEPAYNOS, Zymir Raj Ismael
@@ -20,10 +21,10 @@ MEDRANO, Dave
 - ITSO, Lyn
 - JOAQUIN, Jade Art
 - MARCOS, Brenelyn
+- MITAS, Warren
 - MOCAY, Homer
 - PADILLA, Renz
 - PASCUAL, Chysis
 - POLLED, Kenneth
 - VENTURINA, Joshua
 - ULLANI, Ronalyn
-- CALADO, Joward
