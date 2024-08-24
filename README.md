@@ -5,7 +5,7 @@
 Dave H. Medrano
 
 ### Members
-Balala, Conibeth Mae
+- BALALA, Conibeth Mae
 MEDRANO, Dave H.
 
 ### Members
