@@ -14,6 +14,7 @@ MEDRANO, Dave
 - CORPUZ, Mark Janlee
 - DEPAYNOS, Nathalie
 - DEPAYNOS, Zymir Raj Ismael
+- DE VERA, Renand
 - DOUGLAS, Jezreel
 - DULAGAN, Jasmine
 - ESGUERRA, Aeron Raye
