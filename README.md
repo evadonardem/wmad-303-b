@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Member
-Calias Sandra
+CALIAS, Sandra
