@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ## Members
-Tum-en, Jonalou D.
+TUM-EN, Jonalou
