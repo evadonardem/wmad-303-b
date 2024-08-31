@@ -4,4 +4,4 @@
 MEDRANO, Dave H.
 
 ### Members
-Camacho, Mecie Faith
+CAMACHO, Mecie Faith
