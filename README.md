@@ -12,6 +12,7 @@ MEDRANO, Dave
 - CALADO, Joward
 - CAOILI, Benjamin
 - CORPUZ, Mark Janlee
+- COLSIDO, Jeric
 - DEPAYNOS, Nathalie
 - DEPAYNOS, Zymir Raj Ismael
 - DOUGLAS, Jezreel
