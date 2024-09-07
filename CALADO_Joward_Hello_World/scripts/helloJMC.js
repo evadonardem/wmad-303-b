@@ -4,4 +4,4 @@ const likodkulay = prompt("What is your preffered background color?");
 
 document.getElementById("nameJMC").innerHTML = pangalan;
 document.getElementById("nameJMC").style.color = kulay;
-document.body.style.backgroundColor=likodkulay
+document.body.style.backgroundColor=likodkulay;
