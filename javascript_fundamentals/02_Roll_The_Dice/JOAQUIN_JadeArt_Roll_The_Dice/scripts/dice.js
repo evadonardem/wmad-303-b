@@ -14,11 +14,11 @@ const die2Style = document.getElementById("die2").style;
 
 
 die1Style.backgroundPositionX = xOffsetdie1 + "px";
-die1Style.backgroundPositionY = xOffsetdie1 + "px";
+die1Style.backgroundPositionY = yOffsetdie1Offsetdie1 + "px";
 
 
 die2Style.backgroundPositionX = xOffsetdie2 + "px";
-die2Style.backgroundPositionY = xOffsetdie2 + "px";
+die2Style.backgroundPositionY = yOffsetdie2 + "px";
 };
 
 const rollMeBtn =document.getElementById("rollMe");
