@@ -31,5 +31,6 @@ MEDRANO, Dave
 - PADILLA, Renz
 - PASCUAL, Chysis
 - POLLED, Kenneth
+- RUFINO, Froilan
 - VENTURINA, Joshua
 - ULLANI, Ronalyn
