@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEPAYNOS, Nathalie Roll The Dice</title>
+    <style>
+        .die{
+            width: 116px;
+            height: 118px;
+            background-color: pink;
+            background-image: url(images/die.jpg);
+            transition: 0.5s;
+            border-radius: 20px;
+        }
+
+        .dice{
+            display: flex;
+            gap: 20px;
+        }
+        p{
+            font-size: 20px;
+            width: 232px;
+            text-align: center;
+        }
+        button{
+            padding: 5px;
+            width: 100px;
+        }
+        .cont{
+            width: 40%;
+            margin: 20px auto;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+    </style>
+
+</head>
+<body>
+    <div class="cont">
+        <h1>Roll The Dice</h1>
+        <div class="dice">
+            <div class="die" id="die1"></div>
+            <div class="die" id="die2"></div>
+        </div>
+        <p id="totalValue">Total: </p>
+        <button type="button" id="roll">Reroll</button>
+    </div>
+
+    <script src="scripts/dice.js "></script>
+</body>
+</html>
