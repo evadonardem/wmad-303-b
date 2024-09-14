@@ -34,3 +34,4 @@ MEDRANO, Dave
 - RUFINO, Froilan
 - VENTURINA, Joshua
 - ULLANI, Ronalyn
+- PASCUAL, Chysis O.
