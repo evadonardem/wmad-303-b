@@ -15,6 +15,7 @@ MEDRANO, Dave
 - CAMACHO, Mecie Faith
 - CAOILI, Benjamin
 - CORPUZ, Mark Janlee
+- COLSIDO, Jeric
 - DEPAYNOS, Nathalie
 - DEPAYNOS, Zymir Raj Ismael
 - DE VERA, Renand
