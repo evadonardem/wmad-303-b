@@ -18,18 +18,21 @@
     <br>
     <br>
     <div class="container">
-        <p></p>
-        <h1>Awesome Multiplication Table</h1>
-        <form id="generateForm" action="">
-            <div class="input-group">
-                <span class="input-group-text">Rows x Columns</span>
-                <input type="text" aria-label="First name" class="form-control">
-                <input type="text" aria-label="Last name" class="form-control">
+        <div class="card">
+            <div class="card-body">
+                <h1>Awesome Multiplication Table</h1>
+                <form id="generateForm" action="">
+                    <div class="input-group">
+                        <span class="input-group-text">Enter desired rows and columns:</span>
+                        <input type="text" aria-label="First name" class="form-control">
+                        <input type="text" aria-label="Last name" class="form-control">
+                    </div>
+                    <div class="d-grid gap-2">
+                        <button class="btn btn-primary" type="submit">Generate</button>
+                    </div>
+                </form>
             </div>
-            <div class="d-grid gap-2">
-                <button class="btn btn-primary" type="submit">Generate</button>
-            </div>
-        </form>
+        </div>
         <table class="table table-striped table-bordered table-striped-columns">
             <thead>
                 <!-- <th scope="col"></th> -->
