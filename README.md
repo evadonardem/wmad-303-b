@@ -34,5 +34,5 @@ MEDRANO, Dave
 - PASCUAL, Chysis
 - POLLED, Kenneth
 - TUM-EN, Jonalou
-- VENTURINA, Joshua
 - ULLANI, Ronalyn
+- VENTURINA, Joshua
