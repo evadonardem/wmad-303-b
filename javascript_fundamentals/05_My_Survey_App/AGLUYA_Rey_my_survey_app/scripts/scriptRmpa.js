@@ -34,7 +34,7 @@ $('#surveyOptions .btn').click((event) => {
 $('#generateSurveyResult').click(() => {
     chartReferences.forEach(chart => chart.destroy());
 
-    for(let i = 0; i < 3; i++){
+    for(let i = 0; i < 4; i++){
         const ctx = document.getElementById(`surveyResult${i}`);
         const charType = $(ctx).data('chartType');
         surveyResultGenerator(ctx, tally, charType);
