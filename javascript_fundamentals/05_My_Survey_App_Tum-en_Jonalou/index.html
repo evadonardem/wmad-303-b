@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Load Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <!-- Load FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Load JQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- Load Chart.js-->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+
+    <title>TUM-EN, Jonalou My Survey App</title>
+</head>
+
+<body>
+    <div class="container">
+        <br>
+        <h1 class="display-1 text-center mb-3">
+            <i class="fa-solid fa-circle-question fa-2xl m-5 p-3" style="color: #3e00b3;"></i><br>
+           Nya Kayat Mo?
+        </h1>
+
+        <div class="row mb-3">
+            <div class="col text-center">
+                <button type="button" class="btn btn-primary" data-stress-habit="travel-around-the-world">
+                    <i class="fas fa-plane"></i> Travel
+                </button>
+            </div>
+            <div class="col text-center">
+                <button type="button" class="btn btn-success" data-stress-habit="gym-exercise">
+                    <i class="fas fa-dumbbell"></i> Exercise
+                </button>
+            </div>
+            <div class="col text-center">
+                <button type="button" class="btn btn-warning" data-stress-habit="eat-all-you-can">
+                    <i class="fas fa-utensils"></i> Eating
+                </button>
+            </div>
+            <div class="col text-center">
+                <button type="button" class="btn btn-info" data-stress-habit="sleep-all-you-want">
+                    <i class="fas fa-bed"></i> Sleep
+                </button>
+            </div>
+            <div class="col text-center">
+                <button type="button" class="btn btn-secondary" data-stress-habit="movie-madness">
+                    <i class="fas fa-film"></i> Movie 
+                </button>
+            </div>
+            <div class="col text-center">
+                <button type="button" class="btn btn-danger" data-stress-habit="motorcycle-ride">
+                    <i class="fas fa-motorcycle"></i> Motorcycle
+                </button>
+            </div>
+        </div>
+
+        <hr class="my-4">
+
+        <button class="btn btn-lg btn-primary form-control" id="generate-survey-result">
+            <i class="fa-solid fa-chart-line"></i>
+            Generate Survey Result
+        </button>
+
+        <div class="row">
+            <div class="col-md-5 my-3 mx-auto">
+                <canvas id="surveyResult0" data-chart-type="bar"></canvas>
+            </div>
+            <div class="col-md-5 my-3 mx-auto">
+                <canvas id="surveyResult1" data-chart-type="line"></canvas>
+            </div>
+            <div class="col-md-5 my-3 mx-auto">
+                <canvas id="surveyResult2" data-chart-type="doughnut"></canvas>
+            </div>
+            <div class="col-md-5 my-3 mx-auto">
+                <canvas id="surveyResult3" data-chart-type="pie"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script -->
+    <script src="scripts/surveyJDT.js"></script>
+
+</body>
+
+</html>
