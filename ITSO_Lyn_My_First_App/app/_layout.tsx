@@ -1,6 +1,6 @@
 import { Stack } from 'expo-router';
 
-export default function RootLayoutnfhd() {
+export default function RootLayoutlx() {
   return (
     <Stack>
       <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
