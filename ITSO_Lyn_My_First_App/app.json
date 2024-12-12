@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "LASTNAME_FirstNaME_My_First_App",
-    "slug": "ITSO_FirstName_My_First_App",
+    "slug": "LASTNAME_FirstName_My_First_App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
