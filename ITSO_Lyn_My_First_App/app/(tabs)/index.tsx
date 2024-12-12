@@ -1,6 +1,6 @@
 import { View, StyleSheet } from "react-native";
-import Button from '@/componentsNFHD/Button';
-import ImageViewer from '@/componentsNFHD/ImageViewer';
+import Button from '@/componentsLX/Button';
+import ImageViewer from '@/componentsLX/ImageViewer';
 import * as ImagePicker from 'expo-image-picker';
 import { useState, useRef } from 'react';
 import { type ImageSource } from 'expo-image';
@@ -8,16 +8,16 @@ import { GestureHandlerRootView } from "react-native-gesture-handler";
 import * as MediaLibrary from 'expo-media-library';
 import { captureRef } from 'react-native-view-shot';
 
-import IconButton from '@/componentsNFHD/IconButton';
-import CircleButton from '@/componentsNFHD/CircleButton';
-import EmojiPicker from '@/componentsNFHD/EmojiPicker';
-import EmojiList from '@/componentsNFHD/EmojiList';
-import EmojiSticker from '@/componentsNFHD/EmojiSticker';
+import IconButton from '@/componentsLX/IconButton';
+import CircleButton from '@/componentsLX/CircleButton';
+import EmojiPicker from '@/componentsLX/EmojiPicker';
+import EmojiList from '@/componentsLX/EmojiList';
+import EmojiSticker from '@/componentsLX/EmojiSticker';
 
 const PlaceholderImage = require("../../assets/images/background-img.png");
 
 
-export default function Indexnfhd() {
+export default function Indexlx() {
   const imageRef = useRef<View>(null);
   const [status, requestPermission] = MediaLibrary.usePermissions();
   const [selectedImagenfhd, setselectedImagenfhd] = useState<string | undefined>(undefined);
