@@ -20,12 +20,12 @@ const PlaceholderImage = require("../../assets/images/background-img.png");
 export default function Indexlx() {
   const imageRef = useRef<View>(null);
   const [status, requestPermission] = MediaLibrary.usePermissions();
-  const [selectedImagenfhd, setselectedImagenfhd] = useState<string | undefined>(undefined);
+  const [selectedImagenlx, setselectedImagenlx] = useState<string | undefined>(undefined);
   const [showAppOptions, setShowAppOptions] = useState<boolean>(false);
   const [isModalVisible, setIsModalVisible] = useState<boolean>(false);
   const [pickedEmoji, setPickedEmoji] = useState<ImageSource | undefined>(undefined);
 
-  const pickImageAsyncnfhd = async () => {
+  const pickImageAsynclx = async () => {
     let result = await ImagePicker.launchImageLibraryAsync({
       mediaTypes: ['images'],
       allowsEditing: true,
@@ -37,7 +37,7 @@ export default function Indexlx() {
     }
 
     if (!result.canceled) {
-      setselectedImagenfhd(result.assets[0].uri);
+      setselectedImagenlx(result.assets[0].uri);
       setShowAppOptions(true);
     } else {
       alert('You did not select any image.');
@@ -76,7 +76,7 @@ export default function Indexlx() {
     <GestureHandlerRootView style={styles.container}>
       <View style={styles.imageContainer}>
       <View ref={imageRef} collapsable={false}>
-        <ImageViewer imgSource={PlaceholderImage} selectedImage={selectedImagenfhd} />
+        <ImageViewer imgSource={PlaceholderImage} selectedImage={selectedImagelx} />
         {pickedEmoji && <EmojiSticker imageSize={40} stickerSource={pickedEmoji} />}
         </View>
       </View>
@@ -90,7 +90,7 @@ export default function Indexlx() {
         </View>
       ) : (
         <View style={styles.footerContainer}>
-          <Button theme="primary" label="Choose a photo" onPress={pickImageAsyncnfhd} />
+          <Button theme="primary" label="Choose a photo" onPress={pickImageAsynclx} />
           <Button label="Use this photo" onPress={() => setShowAppOptions(true)} />
         </View>
       )}
