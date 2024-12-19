@@ -1,0 +1,31 @@
+{
+  "name": "wmad-303-b",
+  "version": "1.0.0",
+  "description": "## Facilitator  MEDRANO, Dave",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/plugin-transform-class-properties": "^7.25.9",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.25.9",
+    "@babel/plugin-transform-optional-chaining": "^7.25.9",
+    "@expo/webpack-config": "^0.12.52",
+    "@react-native-community/cli-server-api": "^16.0.0",
+    "expo": "^52.0.18",
+    "expo-router": "^4.0.11",
+    "expo-splash-screen": "^0.29.18",
+    "punycode": "^2.3.1",
+    "react-dom": "18.2.0",
+    "react-native": "^0.72.17",
+    "react-native-web": "~0.19.6"
+  },
+  "devDependencies": {
+    "@types/react": "~18.2.14",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.3.3"
+  }
+}
