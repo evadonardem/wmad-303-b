@@ -3,12 +3,13 @@
 ## Facilitator 
 MEDRANO, Dave
 
-### Members 
+### Members
 - ACOKING, Herbert
 - AGLUYA, Rey
 - ALVAREZ, Nigela
 - BALALA, Conibeth Mae
 - BALANSI, Rhys Alecksie
+- BASQUIAL_Kenneth
 - CALADO, Joward
 - CALIAS, Sandra
 - CAMACHO, Mecie Faith
@@ -33,5 +34,5 @@ MEDRANO, Dave
 - PASCUAL, Chysis
 - POLLED, Kenneth
 - TUM-EN, Jonalou
-- VENTURINA, Joshua
 - ULLANI, Ronalyn
+- VENTURINA, Joshua
