@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Depaynos Awesome Multiplication Table</title>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h3 class="text-center">Awesome Multiplication Table</h3>
+        <form class="input-group my-3" id="multiplicationForm">
+            <div class="input-group">
+                <span class="input-group-text">Rows x Columns</span>
+                <input type="number" aria-label="Rows" class="form-control" placeholder="Rows" id="rowsInput">
+                <input type="number" aria-label="Columns" class="form-control" placeholder="Columns" id="colsInput">
+            </div>
+            <button type="button" id="generateBtn" class="btn btn-success form-control mt-3">Generate Table</button>
+        </form>
+
+        <div class="d-flex justify-content-center align-items-center">
+            <div class="spinner-grow text-success" role="status" id="loadingSpinner" style="display: none;">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+
+        <table class="table table-bordered border-success-subtle table-striped table-success mt-3 text-center">
+            <thead>
+                <tr id="cols">
+                </tr>
+            </thead>
+            <tbody id="rows">
+            </tbody>
+        </table>
+    </div>
+
+    <script src="scripts/multNFHD.js"></script>
+
+</body>
+
+</html>
