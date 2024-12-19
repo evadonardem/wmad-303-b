@@ -32,7 +32,9 @@ MEDRANO, Dave
 - PACITENG, Robert
 - PADILLA, Renz
 - PASCUAL, Chysis
+- PALASI, danford
 - POLLED, Kenneth
+- RUFINO, Froilan
 - TUM-EN, Jonalou
 - ULLANI, Ronalyn
 - VENTURINA, Joshua
