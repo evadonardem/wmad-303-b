@@ -3,12 +3,13 @@
 ## Facilitator 
 MEDRANO, Dave
 
-### Members 
+### Members
 - ACOKING, Herbert
 - AGLUYA, Rey
 - ALVAREZ, Nigela
 - BALALA, Conibeth Mae
 - BALANSI, Rhys Alecksie
+- BASQUIAL_Kenneth
 - CALADO, Joward
 - CALIAS, Sandra
 - CAMACHO, Mecie Faith
@@ -16,6 +17,7 @@ MEDRANO, Dave
 - CORPUZ, Mark Janlee
 - DEPAYNOS, Nathalie
 - DEPAYNOS, Zymir Raj Ismael
+- DE VERA, Renand
 - DOUGLAS, Jezreel
 - DULAGAN, Jasmine
 - ESGUERRA, Aeron Raye
@@ -33,6 +35,6 @@ MEDRANO, Dave
 - PALASI, danford
 - POLLED, Kenneth
 - RUFINO, Froilan
-- VENTURINA, Joshua
+- TUM-EN, Jonalou
 - ULLANI, Ronalyn
-- PASCUAL, Chysis O.
+- VENTURINA, Joshua
